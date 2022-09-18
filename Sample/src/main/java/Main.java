@@ -6,5 +6,8 @@ public class Main {
         SunnyClass s = new SunnyClass();
         s.add();
 
+        ThirdClass  t= new ThirdClass();
+        t.minus();
+
     }
 }
